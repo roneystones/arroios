@@ -1,18 +1,16 @@
 # Site settings
-title: "Paper Jekyll Theme"
-description: > 
-  Write a description of your website here.
+title: Arroios
+description: Lorem ipsum dolor est
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: João Arroios
+email: joaoarroios@gmail.com
+twitter_username: #
+github_username: #
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arroios.com.br" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
-disqus_id:
 
 # Build settings
 include: [_pages]
