@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem ipsum dolor sit amet
+title: Fugit laboriosam obcaecati atque facilis
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic impedit fugiat reprehenderit eligendi ea amet eaque quasi. Nulla itaque fugiat dolore tenetur reprehenderit nisi nihil at delectus voluptas cumque. Dolorem consequuntur quidem numquam, voluptatibus vel? Ipsa fugit quidem, reprehenderit. Expedita libero vero cupiditate at modi doloremque obcaecati quaerat. Esse, officiis.
